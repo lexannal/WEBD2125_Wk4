@@ -1,0 +1,24 @@
+{
+  "name": "webd2125_wk4",
+  "version": "1.0.0",
+  "description": "WEBD 2125 Tailwind CSS assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexannal/WEBD2125_Wk4.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexannal/WEBD2125_Wk4/issues"
+  },
+  "homepage": "https://github.com/lexannal/WEBD2125_Wk4#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.6",
+    "tailwindcss": "^4.0.6"
+  }
+}
